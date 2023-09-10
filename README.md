@@ -1,2 +1,2 @@
-# project-portfolio
+# portfolio-project
 end to end portfolio project
